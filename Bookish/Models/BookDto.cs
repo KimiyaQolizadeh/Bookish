@@ -16,6 +16,7 @@ namespace Bookish.Models
 
         //public DateTime? LastUpdate { get; set; }
         public DateTime? Created { get; set; }
+
         //public int? CreateBy { get; set; }
 
 
